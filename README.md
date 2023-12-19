@@ -6,7 +6,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://dani-uploader.xfar.repl.co/file/aIpEaWk8sysT.mp4" width="300px">
+<img src="https://dani-uploader.xfar.repl.co/file/Xj2PooSPFnoJ.jpeg" width="300px">
 </div>
 <br>
 
