@@ -16,7 +16,7 @@
 > profile
 ```
 
-<img align="left" src="https://dani-uploader.xfar.repl.co/file/gv7nRQGyuzag.png" width="130px"/> 
+<img align="left" src="https://dani-uploader.xfar.repl.co/file/ahBskpwxOCZa.jpeg" width="130px"/> 
 
 ```csharp
 My Profile
