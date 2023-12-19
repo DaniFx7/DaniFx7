@@ -127,5 +127,5 @@ while I am listening music.
     
 <h1 align="center">Support Me ♥️ </h1>
 
-<a href="https://saweria.co/DikaArdnt" target="_blank"><img src="https://saweria.co/twitter_card.png" alt="Yes Yes" style="height: 60px !important;width: 217px !important;" ></a>
+<a href="https://saweria.co/bocilhaxor" target="_blank"><img src="https://saweria.co/twitter_card.png" alt="Yes Yes" style="height: 60px !important;width: 217px !important;" ></a>
 
