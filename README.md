@@ -6,7 +6,7 @@
 <body>
 <br>
 <div align="center">
-<img src="https://dani-uploader.xfar.repl.co/file/Xj2PooSPFnoJ.jpeg" width="300px">
+<img src="https://raw.githubusercontent.com/DaniFx7/DaniFx7/main/FB_IMG_1714708310849.jpg" width="300px">
 </div>
 <br>
 
@@ -16,7 +16,7 @@
 > profile
 ```
 
-<img align="left" src="https://dani-uploader.xfar.repl.co/file/ahBskpwxOCZa.jpeg" width="130px"/> 
+<img align="left" src="https://raw.githubusercontent.com/DaniFx7/DaniFx7/main/FB_IMG_1714708310849.jpg" width="130px"/> 
 
 ```csharp
 My Profile
