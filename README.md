@@ -21,14 +21,13 @@
 ```csharp
 My Profile
 -------------------------------
-Username: Dani Fx7.
+Username: Dani Fvnky.
 WhoamI: Normal People.
 Telegram: @ltsMeDani2.
-FavouriteAnime: Elaina.
-Loves: Coding, Trader, Investor, Design, Modifikasi.
+Fav Music : Eling Ae.
+Loves: Coding, Trader, Investor, Design, Modifikasi, Remixer.
 Pronouns: He-Him.
-Location: Hatimu.
-FavouriteSong: Official髭男dism - Pretender.
+Location: Tegal.
 Hobbies: Watching anime, Read Manga 
 while I am listening music.
 ```
