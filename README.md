@@ -22,7 +22,7 @@
 My Profile
 -------------------------------
 Username: Dani Fvnky.
-WhoamI: Normal People.
+WhoamI: Cuma Suka Ngga Berani Ungkapin.
 Telegram: @ltsMeDani2.
 Fav Music : Eling Ae.
 Loves: Coding, Trader, Investor, Design, Modifikasi, Remixer.
