@@ -102,10 +102,7 @@ while I am listening music.
 <a href="https://github.com/DaniFx7" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/Cakhaho" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/cak_haho" target="_blank">
+<a href="https://instagram.com/danicoding" target="_blank">
 <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  <br><img src = "https://media.tenor.com/8W0aS68VgF0AAAAC/shalltear-overlord.gif" width = "400"/>
 </div>  
