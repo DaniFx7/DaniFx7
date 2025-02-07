@@ -24,10 +24,10 @@ My Profile
 Username: Dani Fvnky.
 WhoamI: Cuma Suka Ngga Berani Ungkapin.
 Telegram: @ltsMeDani2.
-Fav Music : Eling Ae.
+Fav Music : Anugrah Terindah.
 Loves: Coding, Trader, Investor, Design, Modifikasi, Remixer.
 Pronouns: He-Him.
-Location: Tegal.
+Location: Tegal Pride.
 Hobbies: Watching anime, Read Manga 
 while I am listening music.
 ```
