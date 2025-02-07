@@ -16,7 +16,7 @@
 > profile
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/DaniFx7/DaniFx7/main/FB_IMG_1714708310849.jpg" width="130px"/> 
+<img align="left" src="https://raw.githubusercontent.com/DaniFx7/DaniFx7/refs/heads/main/PhotoOxy.com_167a57763aad32.jpg" width="130px"/> 
 
 ```csharp
 My Profile
